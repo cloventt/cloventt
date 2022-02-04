@@ -28,6 +28,7 @@ Some other stuff I do:
 
 - [x] Be a father and husband
 - [x] Learn German
+- [x] Hack about on amateur radio
 - [x] [Contribue to OpenStreetMap](https://www.openstreetmap.org/user/cloventt/history#map=11/-43.4659/172.5327)
 - [x] [Edit Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Cloventt)
 - [x] Drink coffee
