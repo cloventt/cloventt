@@ -22,7 +22,6 @@ Some things I know a bit about in no particular order:
 - [x] Avro
 - [x] Scrum
 - [x] Kanban
-- [x] Avro
 
 Some other stuff I do:
 
