@@ -33,9 +33,13 @@ Some other stuff I do:
 - [x] Drink coffee
 
 ## Find me
-[![](https://img.shields.io/reddit/user-karma/combined/cloventt?style=social)](https://www.reddit.com/user/cloventt)
-[![](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/cloventt)
-[![](https://img.shields.io/badge/-cloventt.net-brightgreen)](https://cloventt.net)
+[![](https://img.shields.io/badge/Wikipedia-Cloventt-white?logo=wikipedia)](https://en.wikipedia.org/wiki/User:Cloventt)
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110529082319118991?domain=https%3A%2F%2Fmastodon.nz)](https://mastodon.nz/@cloventt)
+
+[![](https://img.shields.io/badge/LinkedIn-David%20Palmer-blue?logo=linkedin)](https://www.linkedin.com/in/cloventt)
+
+[![](https://img.shields.io/badge/Website-cloventt.net-green?logo=hugo)](https://cloventt.net)
 
 <!---
 cloventt/cloventt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
